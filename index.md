@@ -4,7 +4,7 @@ I am a security enthusiast with a passion for data driven decisions.
 
 ### Contact me
 
-Via Email: leabug@integrify.io
+Via Email: lea.bug@integrify.io
 
 
 LinkedIn: linkedin.com/in/lea-bug-7b9b391b7
