@@ -3,6 +3,7 @@
 I am a security enthusiast with a passion for data driven decisions.
 
 Current study: Safety and security management at De Haagse Hogeschool
+
 Additional study: Data Science and Machine Learning with Integrify
 
 ### Contact me
